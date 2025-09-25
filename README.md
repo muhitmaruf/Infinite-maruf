@@ -12,5 +12,13 @@ My New repository
    - Animated card 🎴 
    ## 🚀 How to use 1. Clone the repo: 
    ```bash git clone 
-   https://github.com/muhitmaruf/Infinite-maruf?
+   https://github.com/muhitmaruf/Infinite-maruf?💕
+
+
+
+# Bold
+** Now iam working github **
+
+## Italic
+** resone i am felling good **
 
