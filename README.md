@@ -5,9 +5,12 @@ My New repository
 ![My Photo](wallpaperflare.com_wallpaper.jpg)
 ![Logo](000000007.png)
 <p align="center">
-  <img src="000000006.jpg" alt="Logo" width="200" style="border-radius:50%;">
+  <img src="000000006.jpg" alt="000000006.jpg" width="200" style="border-radius:50%;">
 </p>
 <img src="000000005.jpg" width="150" style="border-radius:50%;" />
+<p align="center">
+  <img src="maruf.jpg" alt="maruf.jpg" width="150" height="150">
+</p>
 
 
 
