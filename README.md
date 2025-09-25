@@ -7,6 +7,8 @@ My New repository
 <p align="center">
   <img src="000000006.jpg" alt="Logo" width="200" style="border-radius:50%;">
 </p>
+<img src="000000005.jpg" width="150" style="border-radius:50%;" />
+
 
 
 # My Demo Project This is a small interactive HTML + CSS demo page. It includes:
