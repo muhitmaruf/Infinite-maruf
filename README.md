@@ -5,6 +5,12 @@ My New repository
 ![My Photo](wallpaperflare.com_wallpaper.jpg)
 ![Logo](000000007.png)
 
-# Nothing is impossible
-## When you try !
-### You get sucsess 100%
+
+# My Demo Project This is a small interactive HTML + CSS demo page. It includes:
+ - Dark mode toggle 🌙
+  - Greeting form 👋
+   - Animated card 🎴 
+   ## 🚀 How to use 1. Clone the repo: 
+   ```bash git clone 
+   https://github.com/muhitmaruf/Infinite-maruf?
+
