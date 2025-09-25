@@ -2,7 +2,8 @@
 My New repository
 
 [print](https://github.com/muhitmaruf/Infinite-maruf)
-![My Photo](wallpaperflare.com_wallpaper.jpg)
+
+
 ![Logo](000000007.png)
 <p align="center">
   <img src="000000006.jpg" alt="000000006.jpg" width="200" style="border-radius:50%;">
@@ -16,9 +17,10 @@ My New repository
 
 # My Demo Project This is a small interactive HTML + CSS demo page. It includes:
 
- <ul> Dark mode toggle 🌙<ul>
-  <ul> Greeting form 👋<ul>
+ - Dark mode toggle 🌙
+   -Greeting form 👋
    - Animated card 🎴 
+
    ## 🚀 How to use 1. Clone the repo: 
    ```bash git clone 
    https://github.com/muhitmaruf/Infinite-maruf?💕
@@ -72,7 +74,7 @@ My New repository
   <section>
     <h2>Contact</h2>
     <p>Email: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/muhitmaruf" target="_blank">github.com/muhitmaruf</a></p>
+    <p>GitHub: <a href="https://github.com/muhitmaruf/Infinite-maruf?tab=readme-ov-file" target="_blank">github.com/muhitmaruf</a></p>
   </section>
 
   <footer>
@@ -81,4 +83,10 @@ My New repository
 
 </body>
 </html>
+
+
+
+
+![My Photo](000000008.png)
+
 
