@@ -28,7 +28,7 @@ My New repository
 
 ##
   <header>
-    <img src="logo.png" alt="Maruf">
+    <img src="000000006.jpg" alt="Maruf">
     <h1>Maruf</h1>
     <p>Student | Future Developer | Tech Enthusiast</p>
   </header>
